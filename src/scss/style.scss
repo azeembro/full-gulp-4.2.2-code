@@ -1,0 +1,16 @@
+@import 'base/variables.scss';
+
+body{
+    background-color: $bg;
+    color: $red;
+    font-size: $size;
+
+}
+h1{
+    color: $blue;
+    font-size: $h2;
+}
+
+a{
+    transition: all 320ms ease;
+}
